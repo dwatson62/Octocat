@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+A branch is where you store files that you are working on and want to keep it from the main section. Say if you or a colleague wanted to work on a file separately, you should do it in a separate branch, and then merge them back to your main branch when you are ready.

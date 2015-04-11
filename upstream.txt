@@ -1,1 +1,1 @@
-Explain what the upstream remote is usually used for, in your own words
+Upstream is sending information towards the remote repository. So to upstream remote is to send files back to the remote repository, particularly after you have cloned into it rather than creating it.
